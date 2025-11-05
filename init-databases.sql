@@ -10,6 +10,7 @@ CREATE DATABASE techtorque_projects;
 CREATE DATABASE techtorque_timelogs;
 CREATE DATABASE techtorque_payments;
 CREATE DATABASE techtorque_admin;
+CREATE DATABASE techtorque_notification;
 
 -- You also need to create the user that your applications will connect as.
 -- The password here should match what's in your application.properties files.
